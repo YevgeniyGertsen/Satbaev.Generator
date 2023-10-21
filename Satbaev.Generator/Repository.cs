@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Satbaev.Generator
 {
-    internal class Repository
+    public class Repository
     {
         public bool CrateQuetion(QuestionTemplate Qute)
         {
@@ -73,6 +73,4 @@ namespace Satbaev.Generator
 
         }
     }
-
-
 }

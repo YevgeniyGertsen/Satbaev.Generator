@@ -14,12 +14,5 @@ namespace Satbaev.Generator
         public bool IsActiv { get; set; }
         public string ChangeUser { get; set; }
         public DateTime ChangeData { get; set; }
-
-
-
-
-
-
-
     }
 }
